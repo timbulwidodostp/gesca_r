@@ -3,6 +3,8 @@ Generalized Structured Component Analysis (GeSCA) Equation Modeling Use gesca Wi
 
 Generalized Structured Component Analysis Structural Equation Modeling (GeSCA) Use gesca With (In) R Software
 
+https://www.youtube.com/watch?v=wIkBZyea1To
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
